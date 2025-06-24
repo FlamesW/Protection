@@ -10,8 +10,8 @@ shared.SnitchDetection = true;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FlamesW/Protection/home/Security.lua"))();
 ```
 
-```
-shared.ShutDetections(); -- // Shuts down everything
+```lua
+shared.ShutDetections(); -- // Shuts down everything.
 ```
 
 # Made by @flames9925 (Discord)~
